@@ -23,7 +23,7 @@
 
 ### 🚀 Despre Mine
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const daniel = {
