@@ -52,7 +52,7 @@ const daniel = {
 <br/><br/>
 
 <!-- Înlocuiește URL-ul de mai jos cu o imagine / GIF din jocul tău -->
-<img src="img/hta.png" width="70%" style="border-radius: 10px;" alt="I need energy preview" />
+<p align="center"><img src="img/hta.png" width="70%" style="border-radius: 10px;" alt="I need energy preview" /></p>
 
 </details>
 
