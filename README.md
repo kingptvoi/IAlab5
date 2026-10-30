@@ -15,8 +15,6 @@
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-852a-19b561640958.png" width="100%" />
-
 ### 🚀 Despre Mine
 
 ```javascript
