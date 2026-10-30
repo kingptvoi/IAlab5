@@ -46,7 +46,7 @@ const daniel = {
 <summary><b>🏆 I need energy!</b> — <i>Platformer Game Boy style (Locul II Game Jam)</i></summary>
 <br/>
 
-> **Descriere:** Platformer retro cu grafică inspirată de consola Game Boy. Proiect dezvoltat în timp limitat și premiat cu locul II la Game Jam.
+> **Descriere:** Platformer retro cu grafică inspirată de consola Game Boy. Proiect dezvoltat în timp limitat și premiat cu locul II la Game Jam-ul Trijam #199.
 
 <a href="https://huppsy.itch.io/">
   <img src="https://img.shields.io/badge/Joacă_pe_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
@@ -112,7 +112,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/deceiving-darkness.png" width="100%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
+<img src="img/dd.png" width="100%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
 
 </details>
 
@@ -179,6 +179,7 @@ const daniel = {
 ### 🚧 În Lucru (Work in Progress)
 
 * 🚚 **Delivery to Nowhere** — *Joc horror 3D cu tematică de curierat*
+* * 🚙 **Nu am nume inca** - *Joc 3D physics based*
 * 🕹️ **PSX Memory Room** — *Proiect 3D inspirat din estetica era PlayStation 1*
 * 🤖 **Robotics Club Website** — *Site de prezentare pentru clubul de robotică*
 
