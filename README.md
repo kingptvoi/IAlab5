@@ -12,9 +12,6 @@
 <a href="https://huppsy.itch.io/">
 <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-<a href="https://github.com/kingptvoi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <br/><br/>
 
