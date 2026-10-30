@@ -55,7 +55,7 @@ const daniel = {
 <br/><br/>
 
 <!-- Înlocuiește URL-ul de mai jos cu o imagine / GIF din jocul tău -->
-<img src="img/hta.png" width="100%" style="border-radius: 10px;" alt="I need energy preview" />
+<img src="img/hta.png" width="70%" style="border-radius: 10px;" alt="I need energy preview" />
 
 </details>
 
@@ -74,7 +74,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/deviation.png" width="100%" style="border-radius: 10px;" alt="DEVIATION preview" />
+<img src="img/deviation.png" width="70%" style="border-radius: 10px;" alt="DEVIATION preview" />
 
 </details>
 
@@ -93,7 +93,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/ghenstab.png" width="100%" style="border-radius: 10px;" alt="Ghenstab preview" />
+<img src="img/ghenstab.png" width="70%" style="border-radius: 10px;" alt="Ghenstab preview" />
 
 </details>
 
@@ -112,7 +112,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/dd.png" width="100%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
+<img src="img/dd.png" width="70%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
 
 </details>
 
@@ -137,7 +137,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/image-inspector.png" width="100%" style="border-radius: 10px;" alt="Image Inspector preview" />
+<img src="img/image-inspector.png" width="70%" style="border-radius: 10px;" alt="Image Inspector preview" />
 
 </details>
 
@@ -156,7 +156,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/tabs-opened.png" width="100%" style="border-radius: 10px;" alt="Tabs Opened preview" />
+<img src="img/tabs-opened.png" width="70%" style="border-radius: 10px;" alt="Tabs Opened preview" />
 
 </details>
 
