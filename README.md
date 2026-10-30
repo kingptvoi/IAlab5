@@ -15,8 +15,6 @@
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-852a-19b561640958.png" width="100%" />
-
 ### 🚀 Despre Mine
 
 ```javascript
@@ -31,7 +29,7 @@ const daniel = {
 
 ### 🛠️ Tehnologii & Unelte
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,godot,react,html,css,js,git,github" />
 </p>
 
@@ -57,7 +55,7 @@ const daniel = {
 <br/><br/>
 
 <!-- Înlocuiește URL-ul de mai jos cu o imagine / GIF din jocul tău -->
-<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Adauga+aici+un+GIF+sau+Screenshot+din+I+Need+Energy" width="100%" style="border-radius: 10px;" alt="I need energy preview" />
+<img src="img/hta.png" width="100%" style="border-radius: 10px;" alt="I need energy preview" />
 
 </details>
 
@@ -76,7 +74,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Adauga+aici+un+GIF+sau+Screenshot+din+DEVIATION" width="100%" style="border-radius: 10px;" alt="DEVIATION preview" />
+<img src="img/deviation.png" width="100%" style="border-radius: 10px;" alt="DEVIATION preview" />
 
 </details>
 
@@ -95,7 +93,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Adauga+aici+un+GIF+sau+Screenshot+din+Ghenstab" width="100%" style="border-radius: 10px;" alt="Ghenstab preview" />
+<img src="img/ghenstab.png" width="100%" style="border-radius: 10px;" alt="Ghenstab preview" />
 
 </details>
 
@@ -114,7 +112,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Adauga+aici+un+GIF+sau+Screenshot+din+Deceiving+Darkness" width="100%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
+<img src="img/deceiving-darkness.png" width="100%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
 
 </details>
 
@@ -139,7 +137,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Screenshot+Image+Inspector" width="100%" style="border-radius: 10px;" alt="Image Inspector preview" />
+<img src="img/image-inspector.png" width="100%" style="border-radius: 10px;" alt="Image Inspector preview" />
 
 </details>
 
@@ -158,7 +156,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Screenshot+Tabs+Opened" width="100%" style="border-radius: 10px;" alt="Tabs Opened preview" />
+<img src="img/tabs-opened.png" width="100%" style="border-radius: 10px;" alt="Tabs Opened preview" />
 
 </details>
 
