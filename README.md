@@ -1,26 +1,21 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Salut,%20sunt%20Daniel!%20👋&fontSize=42&fontColor=fff&animation=twinkling" width="100%" />
 
-  <!-- Header Banner Dynamic Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Salut,%20sunt%20Daniel!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Student+la+Calculatoare+%40+USV;Game+Developer+%26+Software+Explorer;Pasionat+de+Godot%2C+Web+%C8%99i+Desktop" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Student+la+Calculatoare+%40+USV;Game+Developer+%26+Software+Explorer;I+build+games%2C+apps+%26+web+stuff" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-
-  <!-- Social & Links Badges -->
-  <a href="https://github.com/kingptvoi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://huppsy.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>
-
+  <p align="center">
+    <a href="https://github.com/kingptvoi">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://huppsy.itch.io/">
+      <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-85a3-cd210c410381.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a425-11eb-852a-19b561640958.png" width="100%" />
 
 ### 🚀 Despre Mine
 
@@ -36,24 +31,92 @@ const daniel = {
 
 ### 🛠️ Tehnologii & Unelte
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,godot,react,html,css,js,git,github&perline=9" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,godot,react,html,css,js,git,github" />
+</p>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-85a3-cd210c410381.gif" width="100%" />
+---
 
 ### 🎮 Jocuri Video
 
 > 🕹️ *Proiecte personale realizate în **Godot**, de la platformere 2D până la jocuri multiplayer și experimente 3D.*
 
-| Proiect | Descriere | Detalii & Play |
-| :--- | :--- | :---: |
-| **I need energy!** 🏆 | Platformer retro stil Game Boy. **Locul II la Game Jam.** | <a href="https://huppsy.itch.io/"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white"/></a> |
-| **DEVIATION** | Party game multiplayer local despre ghicitul mediei numerelor. | <a href="https://huppsy.itch.io/"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white"/></a> |
-| **Ghenstab** | Platformer 2D alert bazat pe sărituri peste inamici. | <a href="https://huppsy.itch.io/"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white"/></a> |
-| **Deceiving Darkness** | Joc atmosferic creat în Godot Engine. | <a href="https://huppsy.itch.io/"><img src="https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white"/></a> |
+<br/>
+
+<!-- PROIECT JOC 1 -->
+<details open>
+<summary><b>🏆 I need energy!</b> — <i>Platformer Game Boy style (Locul II Game Jam)</i></summary>
+<br/>
+
+> **Descriere:** Platformer retro cu grafică inspirată de consola Game Boy. Proiect dezvoltat în timp limitat și premiat cu locul II la Game Jam.
+
+<a href="https://huppsy.itch.io/">
+  <img src="https://img.shields.io/badge/Joacă_pe_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Înlocuiește URL-ul de mai jos cu o imagine / GIF din jocul tău -->
+<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Adauga+aici+un+GIF+sau+Screenshot+din+I+Need+Energy" width="100%" style="border-radius: 10px;" alt="I need energy preview" />
+
+</details>
+
+<br/>
+
+<!-- PROIECT JOC 2 -->
+<details open>
+<summary><b>🎲 DEVIATION</b> — <i>Party game multiplayer local</i></summary>
+<br/>
+
+> **Descriere:** Joc de petrecere multiplayer local, în care jucătorii încearcă să ghicească media numerelor alese de grup.
+
+<a href="https://huppsy.itch.io/">
+  <img src="https://img.shields.io/badge/Joacă_pe_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Adauga+aici+un+GIF+sau+Screenshot+din+DEVIATION" width="100%" style="border-radius: 10px;" alt="DEVIATION preview" />
+
+</details>
+
+<br/>
+
+<!-- PROIECT JOC 3 -->
+<details open>
+<summary><b>🏃 Ghenstab</b> — <i>Platformer 2D alert</i></summary>
+<br/>
+
+> **Descriere:** Platformer 2D dinamic în care trebuie să sari peste inamici pentru a-i învinge și a avansa.
+
+<a href="https://huppsy.itch.io/">
+  <img src="https://img.shields.io/badge/Joacă_pe_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Adauga+aici+un+GIF+sau+Screenshot+din+Ghenstab" width="100%" style="border-radius: 10px;" alt="Ghenstab preview" />
+
+</details>
+
+<br/>
+
+<!-- PROIECT JOC 4 -->
+<details open>
+<summary><b>🕯️ Deceiving Darkness</b> — <i>Joc atmosferic Godot</i></summary>
+<br/>
+
+> **Descriere:** Un proiect atmosferic realizat în Godot, axat pe explorare și mecanici speciale de lumină/umbră.
+
+<a href="https://huppsy.itch.io/">
+  <img src="https://img.shields.io/badge/Joacă_pe_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Adauga+aici+un+GIF+sau+Screenshot+din+Deceiving+Darkness" width="100%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
+
+</details>
 
 ---
 
@@ -61,33 +124,77 @@ const daniel = {
 
 > 🛠️ *Instrumente create pentru rezolvarea de probleme practice și experimentare.*
 
-| Proiect | Descriere | Cod Sursă |
-| :--- | :--- | :---: |
-| **Image Inspector** | Vizualizator & inspector de imagini lightweight în Godot 4. | <a href="https://github.com/kingptvoi"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github"/></a> |
-| **Tabs Opened** | Extensie Chromium pentru gestiunea eficientă a taburilor. | <a href="https://github.com/kingptvoi"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github"/></a> |
-| **Calculator App** | Aplicație de calculator dezvoltată în Godot. | <a href="https://github.com/kingptvoi"><img src="https://github.com/kingptvoi"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github"/></a> |
-| **Notes App** | Utilitar simplu și rapid pentru gestionarea notițelor. | <a href="https://github.com/kingptvoi"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github"/></a> |
+<br/>
+
+<!-- APLICAȚIE 1 -->
+<details open>
+<summary><b>🔍 Image Inspector</b> — <i>Inspector de imagini lightweight</i></summary>
+<br/>
+
+> **Descriere:** Utilitar lightweight creat în Godot 4 pentru vizualizarea rapidă și inspectarea detaliilor tehnice ale imaginilor.
+
+<a href="https://github.com/kingptvoi">
+  <img src="https://img.shields.io/badge/Vezi_pe_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Screenshot+Image+Inspector" width="100%" style="border-radius: 10px;" alt="Image Inspector preview" />
+
+</details>
+
+<br/>
+
+<!-- APLICAȚIE 2 -->
+<details open>
+<summary><b>🗂️ Tabs Opened</b> — <i>Extensie Chromium</i></summary>
+<br/>
+
+> **Descriere:** Extensie dedicată browsere-lor bazate pe Chromium pentru gestionarea și organizarea informațiilor despre taburile deschise.
+
+<a href="https://github.com/kingptvoi">
+  <img src="https://img.shields.io/badge/Vezi_pe_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://via.placeholder.com/800x400/101827/38BDF8?text=Screenshot+Tabs+Opened" width="100%" style="border-radius: 10px;" alt="Tabs Opened preview" />
+
+</details>
+
+<br/>
+
+<!-- APLICAȚIE 3 & 4 (Grupate scurt) -->
+<details>
+<summary><b>🧮 Alte Proiecte Desktop (Calculator & Notes App)</b></summary>
+<br/>
+
+* **Calculator App:** Aplicație de calculator cu UI custom realizată în Godot.  
+  [👉 Vezi Cod Sursă](https://github.com/kingptvoi)
+* **Notes App:** Aplicație simplă și rapidă pentru crearea și gestionarea notițelor.  
+  [👉 Vezi Cod Sursă](https://github.com/kingptvoi)
+
+</details>
 
 ---
 
 ### 🚧 În Lucru (Work in Progress)
 
-- 🚚 **Delivery to Nowhere** — *Joc horror 3D cu tematică de curierat*
-- 🕹️ **PSX Memory Room** — *Proiect 3D inspirat din estetica era PlayStation 1*
-- 🤖 **Robotics Club Website** — *Site de prezentare pentru clubul de robotică*
+* 🚚 **Delivery to Nowhere** — *Joc horror 3D cu tematică de curierat*
+* 🕹️ **PSX Memory Room** — *Proiect 3D inspirat din estetica era PlayStation 1*
+* 🤖 **Robotics Club Website** — *Site de prezentare pentru clubul de robotică*
 
 ---
 
 ### 📊 Statistici GitHub
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=kingptvoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistici GitHub" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingptvoi&layout=compact&theme=tokyonight&hide_border=true" alt="Limbaje Top" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kingptvoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistici GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingptvoi&layout=compact&theme=tokyonight&hide_border=true" alt="Limbaje Top" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Footer Banner Dynamic Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=100&section=footer" width="100%" />
 </div>
