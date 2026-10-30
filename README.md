@@ -71,7 +71,7 @@ const daniel = {
 
 <br/><br/>
 
-<img align="center" src="img/deviation.png" width="70%" style="border-radius: 10px;" alt="DEVIATION preview" />
+<p align="center"><img src="img/deviation.png" width="70%" style="border-radius: 10px;" alt="DEVIATION preview" /></p>
 
 </details>
 
@@ -90,7 +90,7 @@ const daniel = {
 
 <br/><br/>
 
-<img align="center" src="img/ghenstab.png" width="70%" style="border-radius: 10px;" alt="Ghenstab preview" />
+<p align="center"><img src="img/ghenstab.png" width="70%" style="border-radius: 10px;" alt="Ghenstab preview" /></p>
 
 </details>
 
@@ -109,7 +109,7 @@ const daniel = {
 
 <br/><br/>
 
-<img align="center" src="img/dd.png" width="70%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
+<p align="center"><img src="img/dd.png" width="70%" style="border-radius: 10px;" alt="Deceiving Darkness preview" /></p>
 
 </details>
 
@@ -134,7 +134,7 @@ const daniel = {
 
 <br/><br/>
 
-<img align="center" src="img/image-inspector.png" width="70%" style="border-radius: 10px;" alt="Image Inspector preview" />
+<p align="center"><img src="img/image-inspector.png" width="70%" style="border-radius: 10px;" alt="Image Inspector preview" /></p>
 
 </details>
 
@@ -153,7 +153,7 @@ const daniel = {
 
 <br/><br/>
 
-<img align="center" src="img/tabs-opened.png" width="70%" style="border-radius: 10px;" alt="Tabs Opened preview" />
+<p align="center"><img src="img/tabs-opened.png" width="70%" style="border-radius: 10px;" alt="Tabs Opened preview" /></p>
 
 </details>
 
