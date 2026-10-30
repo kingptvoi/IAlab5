@@ -6,9 +6,6 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/kingptvoi">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
     <a href="https://huppsy.itch.io/">
       <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
     </a>
@@ -74,7 +71,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/deviation.png" width="70%" style="border-radius: 10px;" alt="DEVIATION preview" />
+<img align="center" src="img/deviation.png" width="70%" style="border-radius: 10px;" alt="DEVIATION preview" />
 
 </details>
 
@@ -93,7 +90,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/ghenstab.png" width="70%" style="border-radius: 10px;" alt="Ghenstab preview" />
+<img align="center" src="img/ghenstab.png" width="70%" style="border-radius: 10px;" alt="Ghenstab preview" />
 
 </details>
 
@@ -112,7 +109,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/dd.png" width="70%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
+<img align="center" src="img/dd.png" width="70%" style="border-radius: 10px;" alt="Deceiving Darkness preview" />
 
 </details>
 
@@ -137,7 +134,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/image-inspector.png" width="70%" style="border-radius: 10px;" alt="Image Inspector preview" />
+<img align="center" src="img/image-inspector.png" width="70%" style="border-radius: 10px;" alt="Image Inspector preview" />
 
 </details>
 
@@ -156,7 +153,7 @@ const daniel = {
 
 <br/><br/>
 
-<img src="img/tabs-opened.png" width="70%" style="border-radius: 10px;" alt="Tabs Opened preview" />
+<img align="center" src="img/tabs-opened.png" width="70%" style="border-radius: 10px;" alt="Tabs Opened preview" />
 
 </details>
 
